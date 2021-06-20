@@ -1,0 +1,1496 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 4 de Panamá (RPC TV)">
+    <display-name lang="es">Canal 4 de Panamá (RPC TV)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 de Panamá (TVMax)">
+    <display-name lang="es">Canal 9 de Panamá (TVMax)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Telemundo Puerto Rico">
+    <display-name lang="es">Canal Telemundo Puerto Rico</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ABC">
+    <display-name lang="en">ABC</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="The Disney Channel (East)">
+    <display-name lang="en">The Disney Channel (East</display-name>
+    <url>http://www.ustvgo.tv</url>
+  </channel>
+  <channel id="CARTOON NETWORK *FHD">
+    <display-name lang="es">CARTOON NETWORK *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210620003000 -0500" stop="20210620010000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Mas que Cine</title>
+  </programme>
+  <programme start="20210620010000 -0500" stop="20210620020000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Infraganti</title>
+  </programme>
+  <programme start="20210620020000 -0500" stop="20210620030000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Oración al Espiritu Santo</title>
+  </programme>
+  <programme start="20210620030000 -0500" stop="20210620040000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Tiempo Extra</title>
+  </programme>
+  <programme start="20210620040000 -0500" stop="20210620043000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Abrid las Puertas al Redentor</title>
+  </programme>
+  <programme start="20210620043000 -0500" stop="20210620050000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Un mensaje al Corazón</title>
+  </programme>
+  <programme start="20210620050000 -0500" stop="20210620060000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Agro y más</title>
+  </programme>
+  <programme start="20210620060000 -0500" stop="20210620070000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Marvel's Runaways</title>
+  </programme>
+  <programme start="20210620070000 -0500" stop="20210620090000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20210620090000 -0500" stop="20210620093000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Rutas de mi País</title>
+  </programme>
+  <programme start="20210620093000 -0500" stop="20210620100000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Karcamo Gaming</title>
+  </programme>
+  <programme start="20210620100000 -0500" stop="20210620110000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Tecnología, Alcance y Solución</title>
+  </programme>
+  <programme start="20210620110000 -0500" stop="20210620113000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Loteria nacional</title>
+  </programme>
+  <programme start="20210620113000 -0500" stop="20210620123000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">La Espía de Historias</title>
+  </programme>
+  <programme start="20210620123000 -0500" stop="20210620133000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Maneja tu Bolsillo</title>
+  </programme>
+  <programme start="20210620133000 -0500" stop="20210620143000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Salud Primero</title>
+  </programme>
+  <programme start="20210620143000 -0500" stop="20210620160000 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Justicia TV</title>
+  </programme>
+  <programme start="20210620160000 -0500" stop="20210620164500 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Proyecto Panamá</title>
+  </programme>
+  <programme start="20210620164500 -0500" stop="20210620184500 -0500" channel="Canal 4 de Panamá (RPC TV)">
+    <title lang="es">Campeonato Nacional Béisbol</title>
+  </programme>
+  <programme start="20210620010000 -0500" stop="20210620030000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">TV Max</title>
+  </programme>
+  <programme start="20210620030000 -0500" stop="20210620033000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">TV Max</title>
+  </programme>
+  <programme start="20210620033000 -0500" stop="20210620040000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">TV Max</title>
+  </programme>
+  <programme start="20210620040000 -0500" stop="20210620050000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Casper</title>
+  </programme>
+  <programme start="20210620050000 -0500" stop="20210620063000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20210620063000 -0500" stop="20210620070000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Visión cooperativa</title>
+  </programme>
+  <programme start="20210620070000 -0500" stop="20210620073000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Aventureros</title>
+  </programme>
+  <programme start="20210620073000 -0500" stop="20210620090000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Navy NCIS</title>
+  </programme>
+  <programme start="20210620090000 -0500" stop="20210620093000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Sports windows</title>
+  </programme>
+  <programme start="20210620093000 -0500" stop="20210620100000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210620100000 -0500" stop="20210620103000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">De paseo pty</title>
+  </programme>
+  <programme start="20210620103000 -0500" stop="20210620110000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+  <programme start="20210620110000 -0500" stop="20210620113000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Revista Inversiones y Negocios</title>
+  </programme>
+  <programme start="20210620113000 -0500" stop="20210620123000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">CSI</title>
+    <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.</desc>
+    <credits>
+      <actor>William Petersen</actor>
+      <actor>Marg Helgenberger</actor>
+      <actor>Gary Dourdan</actor>
+      <actor>George Eads</actor>
+      <actor>Paul Guilfoyle</actor>
+      <actor>Jorja Fox</actor>
+      <actor>Eric Szmanda</actor>
+      <actor>Robert David Hall</actor>
+      <composer>John M. Keane</composer>
+      <composer>Jamie Shields</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/csi_crime_scene_investigation.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210620123000 -0500" stop="20210620130000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Previa Copa América</title>
+  </programme>
+  <programme start="20210620130000 -0500" stop="20210620150000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Venezuela vs. Ecuador</title>
+  </programme>
+  <programme start="20210620150000 -0500" stop="20210620153000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Previa Copa América</title>
+  </programme>
+  <programme start="20210620153000 -0500" stop="20210620173000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Colombia vs. Perú</title>
+    <desc lang="es">La selección Colombiana se enfrenta a la selección Peruana en un partido entre ambas naciones.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/colombia_vs_peru.png" />
+  </programme>
+  <programme start="20210620173000 -0500" stop="20210620210000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">American Ninja Warrior (res.)</title>
+  </programme>
+  <programme start="20210620210000 -0500" stop="20210620220000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">La ley y el orden</title>
+  </programme>
+  <programme start="20210620220000 -0500" stop="20210621010000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">TV Max</title>
+  </programme>
+  <programme start="20210621040000 -0500" stop="20210621043000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Visión cooperativa</title>
+  </programme>
+  <programme start="20210621043000 -0500" stop="20210621050000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">El camino antiguo</title>
+  </programme>
+  <programme start="20210621050000 -0500" stop="20210621060000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20210621060000 -0500" stop="20210621070000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Mesa de periodistas</title>
+  </programme>
+  <programme start="20210621070000 -0500" stop="20210621090000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Chicago Med</title>
+  </programme>
+  <programme start="20210621090000 -0500" stop="20210621110000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Conéctate con La Estrella</title>
+  </programme>
+  <programme start="20210621110000 -0500" stop="20210621120000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Somos la Sele</title>
+  </programme>
+  <programme start="20210621120000 -0500" stop="20210621130000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">La ley y el orden</title>
+  </programme>
+  <programme start="20210621130000 -0500" stop="20210621133000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Chicago Fire</title>
+    <title lang="xx">Chicago Fire</title>
+    <desc lang="es">Las vidas cotidianas de los héroes comprometidos con su trabajo en el equipo de incendios de la ciudad de Chicago arriesgando sus vidas para salvar a otros.</desc>
+    <credits>
+      <actor>Jesse Spencer</actor>
+      <actor>Taylor Kinney</actor>
+      <actor>Monica Raymund</actor>
+      <actor>Lauren German</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>David Eigenberg</actor>
+      <actor>Teri Reeves</actor>
+      <actor>Eamonn Walker</actor>
+      <producer>John L. Roman</producer>
+      <producer>Todd Arnow</producer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/chicago_fire.jpg" />
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210621133000 -0500" stop="20210621140000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Previa Copa América</title>
+  </programme>
+  <programme start="20210621140000 -0500" stop="20210621160000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Uruguay vs. Chile</title>
+    <desc lang="es">La selección Uruguaya se enfrenta a la selección Chilena en un partido entre ambas naciones.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/uruguay_vs_chile.png" />
+  </programme>
+  <programme start="20210621160000 -0500" stop="20210621163000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Post Copa América</title>
+  </programme>
+  <programme start="20210621163000 -0500" stop="20210621170000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Previa Copa América</title>
+  </programme>
+  <programme start="20210621170000 -0500" stop="20210621190000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Argentina vs. Paraguay</title>
+    <desc lang="es">La selección Argentina se enfrenta a la selección Paraguaya en un partido entre ambas naciones.</desc>
+    <icon src="https://imagenes.gatotv.com/categorias/deportes/miniatura/argentina_vs_paraguay.png" />
+  </programme>
+  <programme start="20210621190000 -0500" stop="20210621200000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Breaking Bad</title>
+  </programme>
+  <programme start="20210621200000 -0500" stop="20210621210000 -0500" channel="Canal 9 de Panamá (TVMax)">
+    <title lang="es">Lady, la vendedora de rosas</title>
+  </programme>
+  <programme start="20210620003000 -0500" stop="20210620013000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210620013000 -0500" stop="20210620020000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Decisiones</title>
+    <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
+    <date>2005</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20210620020000 -0500" stop="20210620023000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620023000 -0500" stop="20210620030000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Ideal Prostate+ proporciona alivio natural seguro</title>
+  </programme>
+  <programme start="20210620030000 -0500" stop="20210620040000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Misa Televisada</title>
+  </programme>
+  <programme start="20210620040000 -0500" stop="20210620043000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620043000 -0500" stop="20210620050000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620050000 -0500" stop="20210620053000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620053000 -0500" stop="20210620060000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620060000 -0500" stop="20210620063000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620063000 -0500" stop="20210620070000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620070000 -0500" stop="20210620073000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">123 Shabum</title>
+  </programme>
+  <programme start="20210620073000 -0500" stop="20210620080000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Vamos a Xplorar</title>
+  </programme>
+  <programme start="20210620080000 -0500" stop="20210620083000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620083000 -0500" stop="20210620090000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620090000 -0500" stop="20210620093000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620093000 -0500" stop="20210620100000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620100000 -0500" stop="20210620103000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620103000 -0500" stop="20210620110000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620110000 -0500" stop="20210620113000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Latín Doctors</title>
+  </programme>
+  <programme start="20210620113000 -0500" stop="20210620120000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210620120000 -0500" stop="20210620130000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Un minuto para ganar</title>
+  </programme>
+  <programme start="20210620130000 -0500" stop="20210620140000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Top 20 Funniest</title>
+  </programme>
+  <programme start="20210620140000 -0500" stop="20210620150000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210620150000 -0500" stop="20210620170000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Puerto Rico gana</title>
+  </programme>
+  <programme start="20210620170000 -0500" stop="20210620190000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Exatlón Estados Unidos</title>
+  </programme>
+  <programme start="20210620190000 -0500" stop="20210620193000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210620193000 -0500" stop="20210620210000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Rugrats in Paris: The Movie</title>
+  </programme>
+  <programme start="20210620210000 -0500" stop="20210620220000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210620220000 -0500" stop="20210620230000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">12 corazones</title>
+  </programme>
+  <programme start="20210620230000 -0500" stop="20210621000000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210621000000 -0500" stop="20210621010000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210621010000 -0500" stop="20210621020000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210621020000 -0500" stop="20210621030000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210621030000 -0500" stop="20210621040000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Historias de la vírgen morena</title>
+  </programme>
+  <programme start="20210621040000 -0500" stop="20210621050000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Decisiones de mujeres</title>
+  </programme>
+  <programme start="20210621050000 -0500" stop="20210621070000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Hoy día Puerto Rico</title>
+  </programme>
+  <programme start="20210621070000 -0500" stop="20210621080000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">La suerte de Loli</title>
+  </programme>
+  <programme start="20210621080000 -0500" stop="20210621083000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210621083000 -0500" stop="20210621100000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Alexandra a las 12</title>
+  </programme>
+  <programme start="20210621100000 -0500" stop="20210621130000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210621130000 -0500" stop="20210621150000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210621150000 -0500" stop="20210621170000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Puerto Rico gana</title>
+  </programme>
+  <programme start="20210621170000 -0500" stop="20210621180000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210621180000 -0500" stop="20210621190000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Cafe con aroma de mujer</title>
+  </programme>
+  <programme start="20210621190000 -0500" stop="20210621193000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20210621193000 -0500" stop="20210621210000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Exatlón Estados Unidos</title>
+  </programme>
+  <programme start="20210621210000 -0500" stop="20210621223000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Alexandra a las 12</title>
+  </programme>
+  <programme start="20210621223000 -0500" stop="20210621230000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Decisiones</title>
+    <desc lang="es">Decisiones, en cada episodio un melodrama sobre pasión y sexo en el mundo de hoy en día.</desc>
+    <date>2005</date>
+    <category lang="es">Programa</category>
+    <category lang="es">Novela</category>
+    <category lang="es">Telenovela</category>
+    <icon src="https://imagenes.gatotv.com/categorias/telenovelas/miniatura/decisiones.png" />
+    <country lang="es">Estados Unidos</country>
+    <country lang="es">Colombia</country>
+  </programme>
+  <programme start="20210621230000 -0500" stop="20210622020000 -0500" channel="Canal Telemundo Puerto Rico">
+    <title lang="es">Día a día</title>
+  </programme>
+  <programme start="20210620193000 +0000" stop="20210620220000 +0000" channel="ABC">
+    <title lang="en">NBA Basketball</title>
+    <sub-title lang="en">Game 1: Western Conference Finals</sub-title>
+    <desc lang="en">Game 1 of the Western Conference finals.</desc>
+    <date>2021</date>
+    <category lang="en">Pro Sports</category>
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210620220000 +0000" stop="20210620223000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210620223000 +0000" stop="20210620230000 +0000" channel="ABC">
+    <title lang="en">ABC World News Tonight With David Muir (?)</title>
+    <sub-title lang="en">06-20-2021</sub-title>
+    <date>2021</date>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+  </programme>
+  <programme start="20210620230000 +0000" stop="20210621000000 +0000" channel="ABC">
+    <title lang="en">America's Funniest Home Videos</title>
+    <sub-title lang="en">3111</sub-title>
+    <desc lang="en">CloseDon't miss 10 finalists going head-to-head for the season's first $100,000 prize, along with hijinks during distance learning and unlikely mishaps.</desc>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <episode-num system="onscreen">S31 E11</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621000000 +0000" stop="20210621010000 +0000" channel="ABC">
+    <title lang="en">Celebrity Family Feud</title>
+    <sub-title lang="en">Dee Snider vs. Terry Bradshaw and OneRepublic vs. Mayans M.C. Cast</sub-title>
+    <desc lang="en">Terry Bradshaw and family faces off against Twisted Sister front man Dee Snider and family. Also: OneRepublic go head-to-head against the cast of the FX drama \"Mayans M.C.\".</desc>
+    <date>2021</date>
+    <category lang="en">Game Show</category>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210621010000 +0000" stop="20210621020000 +0000" channel="ABC">
+    <title lang="en">The Chase</title>
+    <sub-title lang="en">Let's See If You've Got The Guts</sub-title>
+    <desc lang="en">James \"The Highroller\" Holzhauer takes his seat as The Chaser in a race like never before. With only seconds on the clock and more than $500,000 at stake, see if these players can beat the chaser – or get caught.</desc>
+    <date>2021</date>
+    <category lang="en">Reality</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621020000 +0000" stop="20210621030000 +0000" channel="ABC">
+    <title lang="en">To Tell the Truth</title>
+    <sub-title lang="en">Kevin Nealon, Retta and Francia Raisa</sub-title>
+    <desc lang="en">Kevin Nealon, Retta and Francia Raisa make up the celebrity panel. The celebrity guests will be seeing stars with the panel, which features a person who won $250,000 playing bingo, a professional astrologer, a planet hunter, a person who danced in the big game halftime show and a steel artist.</desc>
+    <date>2021</date>
+    <category lang="en">Game Show</category>
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210621030000 +0000" stop="20210621090000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621090000 +0000" stop="20210621110000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621110000 +0000" stop="20210621130000 +0000" channel="ABC">
+    <title lang="en">Good Morning America</title>
+    <sub-title lang="en">GMA's Rise and Shine tour of America: Alaska; Desiree Hartsock; Jim Gaffigan; Chlöe of Chloe x Halle</sub-title>
+    <desc lang="en">GMA's Rise and Shine tour of America: Alaska; former \"Bachelorette\" and author Desiree Hartsock (\"The Road to Roses\"); comedian Jim Gaffigan (\"Luca\"); GMA Summer Concert Series continues with a performance by Chlöe of Chloe x Halle.</desc>
+    <date>2021</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210621130000 +0000" stop="20210621150000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621150000 +0000" stop="20210621160000 +0000" channel="ABC">
+    <title lang="en">The View</title>
+    <sub-title lang="en">Drew Barrymore; \"View Your Deal\"</sub-title>
+    <desc lang="en">Drew Barrymore (\"The Drew Barrymore Show\"; magazine, \"DREW\"); \"View Your Deal\" with hottest items at affordable prices.</desc>
+    <date>2021</date>
+    <category lang="en">Talk &amp; Interview</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210621160000 +0000" stop="20210621170000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621170000 +0000" stop="20210621180000 +0000" channel="ABC">
+    <title lang="en">GMA3: What You Need To Know</title>
+    <sub-title lang="en">Sarah Kate Ellis; Rachel Rodgers; Jet Tila; Jim Gaffigan</sub-title>
+    <date>2021</date>
+    <category lang="en">Health &amp; Lifestyle</category>
+    <episode-num system="onscreen">E0</episode-num>
+  </programme>
+  <programme start="20210621180000 +0000" stop="20210621190000 +0000" channel="ABC">
+    <title lang="en">General Hospital</title>
+    <sub-title lang="en">06-21-2021</sub-title>
+    <desc lang="en">Liz and Finn race to save Chase. Things get complicated for Michael and Willow.</desc>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210621190000 +0000" stop="20210621223000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621223000 +0000" stop="20210621230000 +0000" channel="ABC">
+    <title lang="en">ABC World News Tonight With David Muir (?)</title>
+    <sub-title lang="en">06-21-2021</sub-title>
+    <date>2021</date>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+  </programme>
+  <programme start="20210621230000 +0000" stop="20210622000000 +0000" channel="ABC">
+    <title lang="en">Local Programming (?)</title>
+    <desc lang="en">Local programming.</desc>
+    <episode-num system="onscreen">SnullEnull</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210620202000 +0000" stop="20210620220000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Ice Age: Dawn of the Dinosaurs</title>
+    <desc lang="en">Ray Romano returns to voice Manny the woolly mammoth in this heartwarming animated sequel in which he and his wacky prehistoric friends discover an underground world populated by dinosaurs so large that Manny is no longer the most-feared creature in their realm.</desc>
+    <date>2009</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620220000 +0000" stop="20210620231000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Miraculous World: New York, United Heroez</sub-title>
+    <desc lang="en">Marinette's class' flight to New York City was attacked by supervillain Techno Pirate. American superheroes Majestia, Knightowl, Uncanny Valley, and Sparrow came to their plane's rescue allowing them to land in The Big Apple safely. Gabriel is on a mission to find the Eagle Miraculous in the United States.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210620231000 +0000" stop="20210620233500 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">The Puppeteer 2</sub-title>
+    <desc lang="en">Manon becomes The Puppeteer again, and she is determined to have fun in a unique playground, the Grevin wax museum, but Ladybug and Cat Noir can't stand still if they want to stop her.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210620233500 +0000" stop="20210621000000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Cat Blanc</sub-title>
+    <desc lang="en">Marinette faces the consequences of her mistake by fighting the last person to get akumatized.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621000000 +0000" stop="20210621003000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Felix</sub-title>
+    <desc lang="en">Adrien and Marinette transform into superheroes and capture Akumas to save Paris.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621003000 +0000" stop="20210621010000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Ladybug</sub-title>
+    <desc lang="en">Lila manipulates all Marinette's close ones, who turn against her, but an even bigger problem awaits Marinette: she is going to have to face a sentimonster that has taken the appearance of Ladybug.</desc>
+    <date>2019</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621010000 +0000" stop="20210621013000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Heart Hunter (The Battle of the Miraculous - part. 1)</sub-title>
+    <desc lang="en">Lady Bug and Cat Noir face-off with the Bourgeois couple who transformed into evil villains. Ladybug seeks the help pf Master Fu to stop Hearthunter, a two-headed Cerberus that is consuming all the love in Paris.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E25</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621013000 +0000" stop="20210621020000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Miracle Queen (The Battle of the Miraculous - part. 2)</sub-title>
+    <desc lang="en">Chloe was turned by Hawk Moth into the Miracle Queen to take control of all who wear Miraculous. Lady Bug and Cat Noir learned that Master Fu was taken hostage by Hawk Moth and Mayura. Lady Bug blames herself for what happened because she was not able to return the Dragon Miraculous to Master Fu.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E26</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621020000 +0000" stop="20210621023000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">There Goes the Bride</sub-title>
+    <desc lang="en">Jessie and Brooks are forced to move up their wedding day, when he gets a job in Africa and must be there in two days.</desc>
+    <date>2014</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621023000 +0000" stop="20210621030000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">Coffee Talk</sub-title>
+    <desc lang="en">Emma and Zuri compete to attend a concert with Jessie, who landed two VIP wristbands to the event. Meanwhile, Bertram becomes infatuated with his new talking coffeemaker.</desc>
+    <date>2014</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621030000 +0000" stop="20210621033000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Rated Cricket; Homeshare Hoedown</sub-title>
+    <desc lang="en">Cricket wants to see an adult romance movie over a child film; Gloria sets Cricket up with two difficult roommates for the night.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621033000 +0000" stop="20210621040000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Cricket's Shoes; Feud Fight</sub-title>
+    <desc lang="en">When Cricket gets sick, his family steps in to fulfill his commitments for the day; the Green family's nemesis Chip Whistler shows up at the farmers' market in an attempt to steal business from them.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621040000 +0000" stop="20210621043000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Breaking News; Cyberbullies</sub-title>
+    <desc lang="en">When Bill grows a huge watermelon, Cricket invites the local news to see the mega melon; and Cricket stands up to the cyberbullying of three online gamers known as the Cyber Knights.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621043000 +0000" stop="20210621050000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Tilly Tour; Dinner Party</sub-title>
+    <desc lang="en">Tilly helps Gramma be a tourist for the day; Cricket and Remy host a 'getting to know you' dinner party.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621050000 +0000" stop="20210621053000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">What a Steal</sub-title>
+    <desc lang="en">Jessie tries to help Ravi make friends and takes him to a MENSA meeting in the park, where they meet new friends who may be too good to be true.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621053000 +0000" stop="20210621060000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">Katch Kipling</sub-title>
+    <desc lang="en">Mrs. Kipling becomes a celebrity and it puts a strain on her relationship with Ravi. Meanwhile, Bertram preps Emma for an audition; and Zuri tries to become more independent.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621060000 +0000" stop="20210621063000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Liv and Maddie: Cali Style</title>
+    <sub-title lang="en">Skyvolt-A-Rooney</sub-title>
+    <desc lang="en">Liv learns that \"Voltage\" is leaving Stevens Point for Los Angeles and must decide whether to move with the show or stay in Wisconsin with Maddie.</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621063000 +0000" stop="20210621070000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Liv and Maddie: Cali Style</title>
+    <sub-title lang="en">Californi-A-Rooney</sub-title>
+    <desc lang="en">Season 3 ends with Liv and Maddie getting into a big disagreement while trying to figure out if they will be together for the next four years or be going their separate ways.</desc>
+    <date>2016</date>
+    <category lang="en">Drama</category>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621070000 +0000" stop="20210621073000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Austin &amp; Ally</title>
+    <sub-title lang="en">Albums &amp; Auditions</sub-title>
+    <desc lang="en">Ally is accepted to a music school in New York and must decide whether to move or stay with her friends.</desc>
+    <date>2012</date>
+    <category lang="en">Music</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621073000 +0000" stop="20210621080000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Austin &amp; Ally</title>
+    <sub-title lang="en">Everglades &amp; Allygators</sub-title>
+    <desc lang="en">A vacation on a houseboat turns into chaos when a legendary alligator is accidentally brought aboard.</desc>
+    <date>2012</date>
+    <category lang="en">Music</category>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621080000 +0000" stop="20210621083000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">To Be Me, or Not to Be Me</sub-title>
+    <desc lang="en">Jessie gets her first big acting role in a Shakespeare production in the park, but things go awry when she switches personalities with Zuri.</desc>
+    <date>2013</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621083000 +0000" stop="20210621090000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">Toy Con</sub-title>
+    <desc lang="en">Zuri trades a cherished toy that Jessie gave her to a collector, but then she tries to get it back. Meanwhile, Luke and Emma attempt to teach Bertram how to dance.</desc>
+    <date>2013</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621090000 +0000" stop="20210621093000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Riposte</sub-title>
+    <desc lang="en">A mysterious masked fencer gets akumatized into Riposte.</desc>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621093000 +0000" stop="20210621100000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Befana</sub-title>
+    <desc lang="en">Marinette's grandmother gets akumatized.</desc>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621100000 +0000" stop="20210621103000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Sofia the First</title>
+    <sub-title lang="en">The Enchanted Feast</sub-title>
+    <desc lang="en">A wicked fairy tries to trick Sofia, but Snow White appears and teaches Sofia to trust her instincts when she suspects someone is not who they claim to be.</desc>
+    <date>2014</date>
+    <category lang="en">Kids</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621103000 +0000" stop="20210621110000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Sofia the First</title>
+    <sub-title lang="en">Two Princesses and Baby</sub-title>
+    <desc lang="en">James gets turned into a baby when a spell that is supposed to give him and Amber separate birthdays goes haywire.</desc>
+    <date>2014</date>
+    <category lang="en">Kids</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621110000 +0000" stop="20210621113000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Bluey</title>
+    <sub-title lang="en">Rug Island; Hairdressers; Sticky Gecko</sub-title>
+    <desc lang="en">Bluey and Bingo's Rug Island makes felt pens anything possible; Bingo and Bluey try to help Dad's big-headed customer; Bluey and Bingo refuse to leave for their playdate until the sticky rubber gecko falls from the ceiling.</desc>
+    <date>2020</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621113000 +0000" stop="20210621120000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Bluey</title>
+    <sub-title lang="en">Trains; Queens; Flat Pack</sub-title>
+    <desc lang="en">Bingo's routine of heading to the daycare and to her job at the vet clinic is thrown off by Bluey; Bluey and Bingo discover that playing the butler is more fun than being the queen; Bluey and Bingo build their own world with the help of empty boxes.</desc>
+    <date>2019</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621120000 +0000" stop="20210621123000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Puppy Dog Pals</title>
+    <sub-title lang="en">Search and Rescue; Over the Dog Park Wall</sub-title>
+    <desc lang="en">Rolly and Bingo become honorary Coast Guard pups that keep every pet safe.</desc>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621123000 +0000" stop="20210621130000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Puppy Dog Pals</title>
+    <sub-title lang="en">Bob and Ana's Bubble Bummer; Seen Any Seashells?</sub-title>
+    <desc lang="en">The Playcare float breaks down before the People and Pets Parade. The Pugs and Keia head out on an ocean-bound mission to find the perfect seashell for Ana.</desc>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621130000 +0000" stop="20210621133000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Bluey</title>
+    <sub-title lang="en">Army; Fancy Restaurant; Stumpfest</sub-title>
+    <desc lang="en">Calypso coaxes Jack to play Army with Rusty in the bush outside the school that Bluey also attends. Bluey and Bingo set up a romantic date for Mum and Dad with a fancy restaurant ambiance; Dad removes some stumps in the garden but must come up with a compromise on one that has been turned into a nail salon by Bluey, Bingo and Muffin.</desc>
+    <date>2019</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621133000 +0000" stop="20210621140000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Bluey</title>
+    <sub-title lang="en">The Show; Ticklecrabs; Escape</sub-title>
+    <desc lang="en">Bluey helps Bingo make it up to Mum after dropping her breakfast on the floor; Dad tries to escape the tickle crabs with the help of his true love; Bluey and Bingo burst Mum and Dad's fantasy.</desc>
+    <date>2019</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621140000 +0000" stop="20210621143000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Truth</sub-title>
+    <date>2021</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621143000 +0000" stop="20210621150000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Party Crasher</sub-title>
+    <desc lang="en">Because of a misunderstanding, a fan of Adrien's gets akumatized into party crasher. Convinced that his star has made a fool of him, he is determined to get revenge.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621150000 +0000" stop="20210621153000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">The Puppeteer 2</sub-title>
+    <desc lang="en">Manon becomes The Puppeteer again, and she is determined to have fun in a unique playground, the Grevin wax museum, but Ladybug and Cat Noir can't stand still if they want to stop her.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621153000 +0000" stop="20210621160000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Bluey</title>
+    <sub-title lang="en">The Quiet Game; Postman; Cafe</sub-title>
+    <desc lang="en">Bluey and Bingo won't use words to tell Dad which toy to buy for Muffin. When Mum and Dad have a disagreement, Bluey makes Dad write a love letter to Mum to make up. In the park, Bluey meets a new playmate.</desc>
+    <date>2019</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621160000 +0000" stop="20210621163000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Bluey</title>
+    <sub-title lang="en">Muffin Cone; Circus; Road Trip</sub-title>
+    <desc lang="en">The Heelers head on a road trip. Mum prohibits the girls from saying the word \"dunny.\".</desc>
+    <date>2019</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210621163000 +0000" stop="20210621170000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Ding Dongers; Animation Abomination</sub-title>
+    <desc lang="en">Remy uses Cricket's antics to gain views and likes on a new video-sharing app. Then, when Cricket and Tilly learn that Gloria has an internship at the animation studio that produces their favorite cartoon, they beg her to bring them for a visit.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621170000 +0000" stop="20210621173000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">The Van; Bat Girl</sub-title>
+    <desc lang="en">Gramma and Cricket fume over an unsightly van parked in front of their house; Nancy joins Cricket and Tilly's little league team to get back at their unsportsmanlike rivals.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621173000 +0000" stop="20210621180000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Cousin Jilly / Gloria's Café</sub-title>
+    <desc lang="en">Tilly revives \"Cousin Jilly,\" an alter-ego she created to entertain Cricket when they were younger. Gloria opens a secret café in the former Big Coffee space without permission.</desc>
+    <date>2021</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621180000 +0000" stop="20210621183000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">Four Broke Kids</sub-title>
+    <desc lang="en">The Ross kids discover their parents have lost all of their money and must learn to live without it.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621183000 +0000" stop="20210621190000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">Dance, Dance Resolution</sub-title>
+    <desc lang="en">The Ross family pull out all the stops to secure dates to a school dance. Meanwhile, Jessie helps Bertram prepare for his first solo at the Metropolitan Opera. The Vamps perform.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621190000 +0000" stop="20210621193000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">What a Steal</sub-title>
+    <desc lang="en">Jessie tries to help Ravi make friends and takes him to a MENSA meeting in the park, where they meet new friends who may be too good to be true.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E8</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621193000 +0000" stop="20210621200000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">Identity Thieves</sub-title>
+    <desc lang="en">Ravi and Emma feel their identities have been stolen when Luke becomes the brain of the family and Zuri the trendy fashionista.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621200000 +0000" stop="20210621203000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Quiet Please; Chipwrecked</sub-title>
+    <desc lang="en">The librarian threatens to throw out the Greens if they make any sound in the library; Cricket needs to save Big Coffee after Chip Whistler sabotages the business.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621203000 +0000" stop="20210621210000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Chipocalypse Now Part 1; Chipocalypse Now Part 2</sub-title>
+    <desc lang="en">Chip Whistler tears down the buildings around the Greens' house to build a new Wholesome Foods store.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621210000 +0000" stop="20210621213000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Miraculous: Tales of Ladybug and Cat Noir</title>
+    <sub-title lang="en">Truth</sub-title>
+    <date>2021</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621213000 +0000" stop="20210621220000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Jessie</title>
+    <sub-title lang="en">The Fear in Our Stars</sub-title>
+    <desc lang="en">Jessie books a commercial audition, which forces her to practice all of the \"special skills\" listed on her résumé. Meanwhile, Ravi convinces Luke that a meteor is headed towards Earth.</desc>
+    <date>2015</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S4 E19</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621220000 +0000" stop="20210621223000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Raven's Home</title>
+    <sub-title lang="en">Head Over Wheels</sub-title>
+    <desc lang="en">Levi's new crush Isabella tries to visit but can't come upstairs because of her wheelchair, so Nia and Tess try to convince Mitch to make the building wheelchair-accessible. Meanwhile, Booker tries to help Levi win Isabella's attention over another boy.</desc>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621223000 +0000" stop="20210621230000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Raven's Home</title>
+    <sub-title lang="en">The Most Interesting Mom in the World</sub-title>
+    <desc lang="en">Booker and Nia lie about their mother to make a school report more interesting.</desc>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating>
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210621230000 +0000" stop="20210621233000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Breaking News; Cyberbullies</sub-title>
+    <desc lang="en">When Bill grows a huge watermelon, Cricket invites the local news to see the mega melon; and Cricket stands up to the cyberbullying of three online gamers known as the Cyber Knights.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210621233000 +0000" stop="20210622000000 +0000" channel="The Disney Channel (East)">
+    <title lang="en">Big City Greens</title>
+    <sub-title lang="en">Tilly Tour; Dinner Party</sub-title>
+    <desc lang="en">Tilly helps Gramma be a tourist for the day; Cricket and Remy host a 'getting to know you' dinner party.</desc>
+    <date>2018</date>
+    <category lang="en">Family</category>
+    <episode-num system="onscreen">E0</episode-num>
+    <rating>
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210620010000 -0500" stop="20210620020000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20210620020000 -0500" stop="20210620030000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore.</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620030000 -0500" stop="20210620040000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210620040000 -0500" stop="20210620051500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Scooby Doo Un verano</title>
+  </programme>
+  <programme start="20210620051500 -0500" stop="20210620053000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20210620053000 -0500" stop="20210620063000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore.</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620063000 -0500" stop="20210620074500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Especial de Barbie</title>
+  </programme>
+  <programme start="20210620074500 -0500" stop="20210620090000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620090000 -0500" stop="20210620094500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210620094500 -0500" stop="20210620100000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Otra semana en Cartoon</title>
+  </programme>
+  <programme start="20210620100000 -0500" stop="20210620114500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20210620114500 -0500" stop="20210620120000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Any Malu Show</title>
+  </programme>
+  <programme start="20210620120000 -0500" stop="20210620121500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Juaco vs Paco</title>
+  </programme>
+  <programme start="20210620121500 -0500" stop="20210620143000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">The Karate Kid</title>
+  </programme>
+  <programme start="20210620143000 -0500" stop="20210620150000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210620150000 -0500" stop="20210620160000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210620160000 -0500" stop="20210620161500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Juaco vs Paco</title>
+  </programme>
+  <programme start="20210620161500 -0500" stop="20210620170000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620170000 -0500" stop="20210620180000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620180000 -0500" stop="20210620200000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">The Karate Kid</title>
+  </programme>
+  <programme start="20210620200000 -0500" stop="20210620210000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620210000 -0500" stop="20210620220000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210620220000 -0500" stop="20210620230000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore.</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210620230000 -0500" stop="20210621000000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20210621040000 -0500" stop="20210621051000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20210621051000 -0500" stop="20210621053500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210621053500 -0500" stop="20210621060000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Viajes Pokémon</title>
+  </programme>
+  <programme start="20210621060000 -0500" stop="20210621063000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621063000 -0500" stop="20210621073000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+    <title lang="xx">The Amazing World of Gumball</title>
+    <desc lang="es">El gato azul Gumball, su hermano Darwin, un pez dorado, y un grupo de raros amigos pasan el tiempo juntos haciendo travesuras en el pueblo de Elmore.</desc>
+    <credits>
+      <producer>Joanna Beresford</producer>
+      <producer>Sarah Fell</producer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Caricatura</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/el_increible_mundo_de_gumball.jpg" />
+    <country lang="es">Reino Unido</country>
+    <country lang="es">Estados Unidos</country>
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621073000 -0500" stop="20210621083000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621083000 -0500" stop="20210621090000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210621090000 -0500" stop="20210621093000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210621093000 -0500" stop="20210621100000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210621100000 -0500" stop="20210621110000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210621110000 -0500" stop="20210621120000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621120000 -0500" stop="20210621130000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210621130000 -0500" stop="20210621140000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20210621140000 -0500" stop="20210621150000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621150000 -0500" stop="20210621154500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210621154500 -0500" stop="20210621160000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Toontorial</title>
+  </programme>
+  <programme start="20210621160000 -0500" stop="20210621163000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20210621163000 -0500" stop="20210621170000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210621170000 -0500" stop="20210621173000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Juaco vs Paco</title>
+  </programme>
+  <programme start="20210621173000 -0500" stop="20210621174500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621174500 -0500" stop="20210621180000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Unikitty</title>
+  </programme>
+  <programme start="20210621180000 -0500" stop="20210621184500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210621184500 -0500" stop="20210621190000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20210621190000 -0500" stop="20210621200000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210621200000 -0500" stop="20210621210000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+    <title lang="xx">Teen Titans Go!</title>
+    <desc lang="es">Robin, Starfire, Raven, Chico Bestia y Cyborg se preparan para nuevas aventuras cómicas después de hacer un sándwich, jugar algún videojuego o lavar la ropa.</desc>
+    <credits>
+      <producer>Aaron Horvath</producer>
+      <producer>Michael Jelenic</producer>
+      <composer>Andy Sturmer</composer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Serie</category>
+    <icon src="https://imagenes.gatotv.com/categorias/caricaturas/miniatura/los_jovenes_titanes_en_accion.jpg" />
+    <rating>
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210621210000 -0500" stop="20210621220000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">CN Off Air</title>
+  </programme>
+  <programme start="20210621220000 -0500" stop="20210621222500 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210621222500 -0500" stop="20210621230000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Dr. Stone</title>
+  </programme>
+  <programme start="20210621230000 -0500" stop="20210622000000 -0500" channel="CARTOON NETWORK *FHD">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+</tv>
